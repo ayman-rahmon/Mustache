@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "736726927190",
+    "firebase_url": "https://mustache-f9e2a.firebaseio.com",
+    "project_id": "mustache-f9e2a",
+    "storage_bucket": "mustache-f9e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736726927190:android:fcbfc84fd96ca913",
+        "android_client_info": {
+          "package_name": "com.fruitybeastsknowledge.mustache"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736726927190-lfh5fbh8abn12l2addfq69o6153g5at2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKas09dyuVfJHhRiG9bTjOvoGj6uQ0FUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
